@@ -1,28 +1,28 @@
-Setting Up App Inventor 2
+安装 App Inventor 2
 =========================
 You can set up App Inventor and start building apps in minutes. The Designer and Blocks Editor now run completely in the browser (aka the cloud). To see your app on a device while you build it (also called "Live Testing"), you'll need to follow the steps below.
 
 You have three options for setting up live testing while you build apps
 
-If you are using an Android device and you have a wireless internet connection, you can start building apps without downloading any software to your computer. You will need to install the App Inventor Companion App for your device. Choose Option One below. This option is STRONGLY RECOMMENDED
+- *如果你正在使用一个安卓设备，而且你有一个 WiFi 无线网络连接*，你可以开始构建应用而不需要在电脑上安装任何软件。你需要在安卓设备上安装一个 App Inventor Companion 应用。 选择下面的第一个选项。这个是*极力推荐*的选项。
 
-If you do not have an Android device, you'll need to install software on your computer so that you can use the on-screen Android emulator. Choose Option Two below.
+- If you do not have an Android device, you'll need to install software on your computer so that you can use the on-screen Android emulator. Choose Option Two below.
 
-If you do not have a wireless internet connection, you'll need to install software on your computer so that you can connect to your Android device over USB. Choose Option Three below. The USB Connection option can be tricky, especially on Windows. Use this as a last resort.
+- If you do not have a wireless internet connection, you'll need to install software on your computer so that you can connect to your Android device over USB. Choose Option Three below. The USB Connection option can be tricky, especially on Windows. Use this as a last resort.
 
-Option One - RECOMMENDED
+* Option One - RECOMMENDED
 Build apps with an Android device and WiFi Connection (preferred): Instructions
 
 If you have a computer, an Android device, and a WiFi connection, this is the easiest way to test your apps.
 ![setup-device-wifi](http://appinventor.mit.edu/explore/sites/all/files/SetupAI2/WifiA.png)
 
-Option Two
+* Option Two
 Don’t have an Android device? Use the Emulator: Instructions
 
 If you don’t have an Android phone or tablet handy, you can still use App Inventor. Have a class of 30 students? Have them work primarily on emulators and share a few devices.
 ![setup-emulator](http://appinventor.mit.edu/explore/sites/all/files/SetupAI2/Emulator.png)
 
-Option Three
+* Option Three
 No WiFi? Build apps with an Android device and USB Cable: Instructions
 
 Some firewalls within schools and organizations disallow the type of WiFi connection required. If WiFi doesn’t work for you, try USB.
